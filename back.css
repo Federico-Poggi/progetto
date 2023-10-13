@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(181, 181, 181);
+}
+header{
+     background-color: azure;
+}
+
+#search{
+    outline-offset: 0px;
+}
